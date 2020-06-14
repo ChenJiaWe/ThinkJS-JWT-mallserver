@@ -1,6 +1,8 @@
 ## 简单地搭建后台管理来学习ThinkJS JWT 鉴权实践
 这个项目并没有完全做完，只做了用户管理，角色管理，权限管理和商品管理
 
+前端地址:https://github.com/15928294509/vue-thinkjs-JWT--Admin
+
 技术栈：vue全家桶、thinkjs框架
 学习目的:
 * 重点学习使用JWT在用户和服务器之间传递信息
